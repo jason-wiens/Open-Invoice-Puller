@@ -16,7 +16,6 @@ userWorkbook := "C:\Users\jason\github\oi-puller-test.xlsx"
 userSaveAsLocation := "C:\Users\jason\github\Open-Invoice-Puller\images\"
 
 ; Application Variables
-message := "Failed to load website"
 counter := 2
 
 ; Create an instance of IE and Open
